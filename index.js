@@ -1,4 +1,4 @@
-let heroi = ["Dean Winchester", 5.500];
+let heroi = ["Dean Winchester", 9.500];
 
 if(heroi[1]<= 1.000){
     console.log("Héroi de nome " + heroi[0] + "está no nível ferro" );
